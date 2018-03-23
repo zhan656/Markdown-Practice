@@ -1,7 +1,6 @@
 ## This is a Markdown file practice
 
-![alt text](https://image.freepik.com/free-photo/cute-cat-picture_1122-449.jpg)
+![alt text](http://kb4images.com/images/picture/37509081-picture.jpg)
 
-***This is a cute kitten***
 
-I made changes
+***I made changes again***
